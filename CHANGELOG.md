@@ -1,3 +1,6 @@
+# v1.0.1 - 20261017
+* [CDPM-06] Remove addition feature [PR#8](https://github.com/NguyenDangViet2005/NguyenDangViet-2249/pull/8)
+
 # v1.0.0 - 20261017
 * [CDPM-01] Implement Add function [PR#1](https://github.com/NguyenDangViet2005/NguyenDangViet-2249/pull/1)
 * [CDPM-02] Implement Sub function [PR#3](https://github.com/NguyenDangViet2005/NguyenDangViet-2249/pull/3)
